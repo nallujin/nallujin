@@ -1,4 +1,4 @@
-### Hi there
+# Hi there
 ## I'm currently learning MERN Stack using The Odin Project as my learning resource.
 
 <!--
