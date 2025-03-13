@@ -1,5 +1,5 @@
 # Hi there
-I'm currently learning MERN Stack using The Odin Project as my learning resource.
+Still trying to be consistent instead of procrastinating in most things.
 
 <!--
 **nallujin/nallujin** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
